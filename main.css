@@ -1,0 +1,22 @@
+body {
+    background-color: pink;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.link-container a {
+    margin: 1em;
+}
+
+.puppy-container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+.puppy-container img {
+    width: 500px;
+}
